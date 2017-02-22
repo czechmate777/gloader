@@ -1,4 +1,4 @@
-# gloader
+# gloader 1.0
 A simple JS plugin that generates a nice Google-style loader animation.
 
 ##Usage
